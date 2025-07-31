@@ -28,14 +28,4 @@ Use arrow keys to move tiles on a 4×4 grid. When two tiles with the same number
 
 2. Run the game:
 
-
-2048-python-game/
-│
-├── 2048.py # Main game logic
-├── constants.py # Colors, fonts, and other constants
-├── images/ # Game UI assets
-│ ├── logo.png
-│ ├── best_rect.png
-│ ├── message.png
-│ └── ...
-└── README.md # This file
+is file
